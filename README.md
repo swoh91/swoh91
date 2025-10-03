@@ -39,7 +39,7 @@
 - **Distributed & Parallel Skyline Algorithm with Balanced Quadtrees**  
   - *KCC 2018* ·
 
-- More in [Google Scholar](https://scholar.google.com/citations?hl=ko&user=TufMP64AAAAJ&sortby=pubdate)
+- More in [Google Scholar](https://scholar.google.com/citations?user=TufMP64AAAAJ&sortby=pubdate)
 
 ---
 
