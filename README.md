@@ -3,7 +3,7 @@
 ---
 
 ## 💼 Industry Experience
-- **ML Infra Intern @ Danggeun Market (2025.07. ~ 2025.10.)**  
+- **ML Infra Intern @ Danggeun Market (Karrot) (2025.07. ~ 2025.10.)**  
   - Built **Python-based LLM serving benchmark workflow** with automated load testing and GitHub Actions deployment  
   - Optimized **vLLM serving on AWS + Kubernetes** with **Tensor Parallelism & Quantization**  
   - Achieved **50% serving cost reduction** while meeting latency & throughput targets  
@@ -15,11 +15,10 @@
 - **LLM Serving Optimization**  
   - Kubernetes-based LLM serving infra  
   - Containerized benchmark pipeline via GitHub Actions  
-  - Explored AWS hardware & serving configs
 
 - **AI Service Support**  
   - Supported multimodal LLM, OCR, and embedding models  
-  - Evaluated latency, throughput, response quality with real workloads
+  - Evaluated latency, throughput with real workloads
 
 ---
 
